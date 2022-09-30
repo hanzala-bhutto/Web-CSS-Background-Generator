@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+h2{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
