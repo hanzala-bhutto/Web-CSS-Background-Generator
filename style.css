@@ -2,18 +2,21 @@ body{
     width: 100%;
 	font: 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
-    letter-spacing: 0.5em;
+    letter-spacing: 0.6em;
     text-align: center;
+    text-transform: uppercase;
     background:linear-gradient(to right, red,yellow);
 }
 
 h1{
     font: 600 3.5em 'Raleway', sans-serif;
     text-transform: uppercase;
+    width: 100%;
 }
 
 h2{
-    font: 700 1.8em 'Raleway', sans-serif;
+    font: 'Raleway', sans-serif;
+    font-size: 1.6em;
     text-transform: uppercase;
 }
 
